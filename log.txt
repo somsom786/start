@@ -1,1 +1,2 @@
 Day 1 - Finished Bandit Level 0–3, started Automate the Boring Stuff
+this is a test for my logging
