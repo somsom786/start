@@ -1,1 +1,5 @@
-testing
+Day 1.
+- Finished Bandit Level 12
+- Built and pushed a BTC/ETH price checker script
+- Learned how to push from PyCharm
+- Starting to feel like I’m building real momentum.
