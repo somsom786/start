@@ -3,3 +3,7 @@ Day 1.
 - Built and pushed a BTC/ETH price checker script
 - Learned how to push from PyCharm
 - Starting to feel like I’m building real momentum.
+Day 2. Finished bandit level 13 and 14, and started reading the first chapter of Automate the Boring Stuff with Python >> log.txt
+
+
+
