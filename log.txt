@@ -4,6 +4,4 @@ Day 1.
 - Learned how to push from PyCharm
 - Starting to feel like I’m building real momentum.
 Day 2. Finished bandit level 13 and 14, and started reading the first chapter of Automate the Boring Stuff with Python >> log.txt
-
-
-
+Day 3. did level 19-20 for bandit, learned how to use nc, and that you can use it as a communication between ports as well. going to some 'Psychology of Money' by Morgan Housel now. Gn
