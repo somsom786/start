@@ -12,3 +12,4 @@ Day 7. Today was a lazy day. I had plans to make it a productive day but ended u
 Day 8. Finished Pre Security.
 Day 9. Today I didn't do much. But I learned how to create a Vanity Address on Solana. Created one for fun, want some uniqueness as most wallets created are just random skribble. I shall use that wallet in the future! I also learned how to make things easier (but with the help of ChatGPT). It's very convenient to learn how to automate stuff, which is why I shall start my Automate the Boring Stuff journey tomorrow!
 Day 10. I finished the Search Skills room in THM, tried to learn Active Directory Basics but it's too much information and my brain got fried today. I will take a break now. I still haven't started on coding which I must do this month...
+Day 11. Learned the Windows Command Line and the Windows Powershell, seems like very powerful and nice tools created by Microsoft, but I still prefer Linux and its easy cmdlets. Powershell is strong but hard
