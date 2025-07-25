@@ -1,1 +1,15 @@
-testing
+Day 1.
+- Finished Bandit Level 12
+- Built and pushed a BTC/ETH price checker script
+- Learned how to push from PyCharm
+- Starting to feel like I’m building real momentum.
+Day 2. Finished bandit level 13 and 14, and started reading the first chapter of Automate the Boring Stuff with Python >> log.txt
+Day 3. did level 19-20 for bandit, learned how to use nc, and that you can use it as a communication between ports as well. going to some 'Psychology of Money' by Morgan Housel now. Gn
+Day 4. I finished the Networking Fundamentals on THM, paid that 100 eur for a yearly sub. I also did, for educational purposes, learn how to get API's on a website like x.com which can be used for many other stuff. I just did it for experimental and educational purposes, to improve myself. My notebook came from Temu, so i'll use it to journal myself and reflect weekly.
+Day 5. Little progress, only did one room in THM, revised about the OSI model. The 7 layers. Physical, Data Link, Network, Transport, Session, Presentation, Application (yay i got that right first time ^^
+Day 6. Finished the Networking Fundamentals course on THM. 83% Path progress on Pre Security. Tomorrow I shall finish the Windows Fundamentals course and finish Pre Security. After that I will start picking up 'Automate the boring stuff' to start my python learning. I also plan to learn Golang as it's a better language in terms of tools creating and crypto tools
+Day 7. Today was a lazy day. I had plans to make it a productive day but ended up taking a 5 hour nap... don't know if u can call it a nap. Finished Windows fundamentals 1 & 2, it was super boring and i don't want to do the 3rd one now, today is a lazy day so i will take rest now. Next time I shall finish the 3rd one, and start my python jouŕney
+Day 8. Finished Pre Security.
+Day 9. Today I didn't do much. But I learned how to create a Vanity Address on Solana. Created one for fun, want some uniqueness as most wallets created are just random skribble. I shall use that wallet in the future! I also learned how to make things easier (but with the help of ChatGPT). It's very convenient to learn how to automate stuff, which is why I shall start my Automate the Boring Stuff journey tomorrow!
+Day 10. I finished the Search Skills room in THM, tried to learn Active Directory Basics but it's too much information and my brain got fried today. I will take a break now. I still haven't started on coding which I must do this month...
+Day 11. Learned the Windows Command Line and the Windows Powershell, seems like very powerful and nice tools created by Microsoft, but I still prefer Linux and its easy cmdlets. Powershell is strong but hard

@@ -10,3 +10,6 @@ It's time I wake up and actually become someone _valuable_.
 
 My goal is to become a sophisticated, pro hacker. And become a valuable human being. 
 
+
+i will follow this roadmap:
+![20250704_200848](https://github.com/user-attachments/assets/7a3b356e-1420-4498-aa79-366ade68ef4f)
