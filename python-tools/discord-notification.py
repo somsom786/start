@@ -4,7 +4,7 @@ import pygame
 # Your settings
 TOKEN = "YOUR_DISCORD_TOKEN"
 TRIGGER = "WHATEVER_MESSAGE_YOU_WANT_TO_TRIGGER"
-SOUND_FILE = r"YOUR_DISCORD_SOUND_FILE/PATH"
+SOUND_FILE = r"YOUR_DISCORD_SOUND_FILE/PATH" #you can download some here: https://pixabay.com/sound-effects/search/ping/
 GUILD_ID = "THE_GUILD_ID" #you right click the server you are in and copy the server ID
 CHANNEL_ID = "THE_CHANNEL_ID" #same as guild id
 
